@@ -6,6 +6,12 @@
 
 This is an implementation of a web application that manages orders from several clients, the developed web application must respect the MVC design pattern.
 
+## Table of contents
+* [Class diagram](#class-diagram)
+* [Database schema](#database-schema)
+* [Testing the Application](#testing-the-application)
+* [Articles](#articles)
+
 ## Class diagram
 
 The class diagram used to implement this web application composed of four classes "Client", "Commande", "Article" and "LigneCmd":
