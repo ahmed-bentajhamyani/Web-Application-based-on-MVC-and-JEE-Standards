@@ -7,10 +7,13 @@
 This is an implementation of a web application that manages orders from several clients, the developed web application must respect the MVC design pattern.
 
 ## Table of contents
-* [Class diagram](#class-diagram)
+[Class diagram](#class-diagram)
 * [Database schema](#database-schema)
 * [Testing the Application](#testing-the-application)
 * [Articles](#articles)
+* [Clients](#clients)
+* [Commandes](#commandes)
+* [Ligne Commandes](#ligne-commandes)
 
 ## Class diagram
 
