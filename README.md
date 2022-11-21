@@ -8,8 +8,8 @@ This is an implementation of a web application that manages orders from several 
 
 ## Table of contents
 [Class diagram](#class-diagram)
-* [Database schema](#database-schema)
-* [Testing the Application](#testing-the-application)
+[Database schema](#database-schema)
+[Testing the Application](#testing-the-application)
 * [Articles](#articles)
 * [Clients](#clients)
 * [Commandes](#commandes)
