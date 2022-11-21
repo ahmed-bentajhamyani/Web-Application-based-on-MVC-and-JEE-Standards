@@ -106,7 +106,7 @@ The same as articles we added a client to the list:
 	<img width="960" alt="5" src="https://user-images.githubusercontent.com/101653735/203140133-67e05054-918c-498d-a85e-d6a62f3e283e.png">
 </p>
 
-We can edit and delete any client we want so let's edit this client:
+We can edit and delete any client we want so let's edit the adresse of this client:
 
 <p align="center">
 	<img width="960" alt="6" src="https://user-images.githubusercontent.com/101653735/203140256-962d5156-7fb5-4b29-8694-fa9e921fed16.png">
